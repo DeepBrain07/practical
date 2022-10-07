@@ -1,1 +1,1 @@
-This repository is for practicing
+This repository is for practicing only.
